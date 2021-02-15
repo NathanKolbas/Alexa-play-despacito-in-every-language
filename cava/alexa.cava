@@ -1,0 +1,5 @@
+public static void main(String[] args) {
+  char *phrase = "This is so sad, Alexa play dispacito.";
+  printf("%s", phrase);
+  return 0;
+}
